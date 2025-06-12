@@ -60,7 +60,7 @@
 
     // Кнопка resize
     var resizeButton = document.createElement('button');
-    resizeButton.innerHTML = '↕️';
+    resizeButton.innerHTML = '<';
     resizeButton.style.marginLeft = 'auto';
     resizeButton.style.background = 'none';
     resizeButton.style.border = 'none';
